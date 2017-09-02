@@ -1,3 +1,36 @@
 DOCUMENTATION
 
 Dessa dito ka mag docu. .txt muna tayo para pwede sa github!!!
+
+-----------------
+SCANNER
+
+Token: CONST
+Lexemes:
+TRUE
+FALSE
+
+Token: OP
+Lexemes:
+NOT
+AND
+OR
+IMPLIES
+EQUIVALENT
+
+Token: IDENT
+Lexemes:
+P
+Q
+R
+
+Token: SEMICOLON
+Lexeme: ;
+
+Token: OPEN_PAREN
+Lexeme: (
+
+Token: CLOSE_PAREN
+Lexeme: )
+
+-------------------
